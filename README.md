@@ -1,2 +1,2 @@
 # app - App
-> My CAP Business Application v2
+> My CAP Business Application
